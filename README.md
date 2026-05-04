@@ -1,7 +1,7 @@
 [README.md](https://github.com/user-attachments/files/27364758/README.md)
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/owlixai/owlix-protocol/main/assets/logo.png" alt="OWLIX Logo" width="100"/>
+<img src="https://raw.githubusercontent.com/owlixai/owlix-protocol/main/OWL_LOGO.jpeg" alt="OWLIX Logo" width="100"/>
 
 # OWLIX Protocol
 
